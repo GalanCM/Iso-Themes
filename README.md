@@ -9,7 +9,7 @@ In order to create a good base theme for game, three main goals need to be achie
 
 Firstly, the theme must be clean and intuitive. In my mind, these are the two things that make a theme 'beautiful'. Form must follow function, in order for the player to be able to use it effectively, and to do that, extraneous elements should be removed in order to not distract the player. Whether or not a theme succeed or not is subjective, but I believe the new default Godot theme appears to have done this, and I hope that Iso Dark is able to manage this as well.
 
-Secondly, a general-purpose game theme should look good in virtually any game. It should slip into the background of the game, and not contain elements that would clash heavily against any genre or art style. In reality, this may be impossible to do, but Iso Dark strives for it.
+Secondly, a general-purpose game theme should look good in virtually any game, without the need for heavy modification. It should slip into the background of the game, and not contain elements that would clash heavily against any genre or art style. In reality, this may be impossible to do, but Iso Dark strives for it.
 
 Finally, while a generic theme is good for prototype and game jams, no theme is going to work for every game, and most game developer are going to eventually want their games to have their own identities. To facilitate this, a theme should be easily modifiable, and in fact this may be Iso Dark's greatest strength, as a new skin could be as simple as adding a new background or changing the font, and all asset are open source, making more complex modifications easier. In addition there are plans for an Iso Light theme, for use in games that demand a lighter appearance
 
