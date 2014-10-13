@@ -16,7 +16,7 @@ Finally, while a generic theme is good for prototype and game jams, no theme is 
 To support these goals, Iso is build around the following concepts:
 * Ultra-minimalism: Results a clean look, and more importantly is easily modified. Details can be more easily changed without breaking the overall feel, and elements like gradients and shadows don't have to be matched
 * Light weight: Iso Dark focuses on only a few core shapes so that they can be more easily replaced.
-* Two-tone: The background is a warm black, and all other elements are either white or black, with varying transparency. This way, changing a single element shouldn't result in color clashes, and a simple background change should allow for effects throughout the theme.
+* Two-tone: The background is a warm black, and all other elements (with a few unavoidable exceptions) are either white or black, with varying transparency. This way, changing a single element shouldn't result in color clashes, and a simple background change should allow for effects throughout the theme.
 * Non-distinctive elements: Nothing in the theme should stand out to much from other themes players commonly see, and should blend into the game itself.
 * All assets are availible in their original format: This should help with theme modification, so developers don't have to worry about recreating elements to match the theme, but can instead modify the originals.
 * CC0: For easier use in game jams. While I would appreciate attribution for the theme, I know how difficult it is to keep track of everything that I do during a jam, and I know how much it helps to not have to worry about proper attribution.
