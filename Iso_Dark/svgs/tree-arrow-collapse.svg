@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12"
+   height="12"
+   id="svg3940"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tree-arrow-collapse.svg"
+   inkscape:export-filename="/home/galan/Dropbox/Iso Themes/pngs/tree-arrow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3942" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#020202"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="0.92696729"
+     inkscape:cy="21.744563"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3945">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1040.3622)">
+    <path
+       inkscape:transform-center-y="-0.025122569"
+       inkscape:transform-center-x="-0.22629675"
+       transform="matrix(0,-0.73060955,-0.44999467,0,185.23914,1437.9751)"
+       d="m 542.852,404.12557 -6.8436,0.0767 -6.8436,0.0767 3.35537,-5.96509 3.35536,-5.96509 3.48824,5.88837 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.559587"
+       sodipodi:arg1="0.51238946"
+       sodipodi:r2="3.9514029"
+       sodipodi:r1="7.9028058"
+       sodipodi:cy="400.25113"
+       sodipodi:cx="535.96411"
+       sodipodi:sides="3"
+       id="path3866"
+       style="fill:#ffffff;fill-opacity:0.88235294;stroke:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/galan/Dropbox/Iso Themes/pngs/path3866.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

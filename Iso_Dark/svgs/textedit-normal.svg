@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg6576"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lineedit-normal.svg"
+   inkscape:export-filename="/home/galan/Dropbox/Iso Themes/pngs/lineedit-normal.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6578" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="4.8716378"
+     inkscape:cy="12.698641"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4034"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6581">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       transform="translate(-271.92266,937.14509)"
+       id="g4032">
+      <g
+         transform="translate(0,-31.487299)"
+         id="g4034">
+        <rect
+           rx="3"
+           ry="3"
+           y="131.20441"
+           x="272.42267"
+           height="15"
+           width="15"
+           id="rect4036"
+           style="fill:#000000;fill-opacity:0.68627453;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.88235293999999986;stroke-dasharray:none" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.88235294;stroke:none;font-family:Nova Flat;-inkscape-font-specification:Nova Flat"
+         x="22.066343"
+         y="112.91439"
+         id="text4038"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="22.066343"
+           y="112.91439"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:0.88235294;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           id="tspan4040">LineEdit</tspan></text>
+    </g>
+  </g>
+</svg>
