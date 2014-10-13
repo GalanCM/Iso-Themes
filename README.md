@@ -1,4 +1,4 @@
-Iso_Dark=
+Iso Dark Theme for Godot
 ==============
 
 Iso Dark is an open theme for the  [Godot Engine](www.godotengine.org), designed to be used for newly created games, in place of the default theme. It is intended for use in prototypes and game jam games, and it simple enough to be easily modified base for custom game themes.
