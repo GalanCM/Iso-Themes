@@ -13,6 +13,13 @@ Iso Dark is a clean, modern dark theme for the  [Godot Engine](http://www.godote
 * **All assets are availible in their original format:** Iso Dark was designed in [Inkscape](http://www.inkscape.org), an open-source vector graphics progam, and files are availible in both svg and png. This should help with theme modification, so developers don't have to worry about recreating elements to match the theme, but can instead modify the originals.
 * **Licensed CC0:** For easier use in game jams. While I would appreciate attribution for the theme, I know how difficult it is to keep track of everything that I do during a jam, and I know how much it helps to not have to *worry* about proper attribution.
 
+### Known Bugs:
+Due to bugs in Godot, the follow elements cannot be set in the theme, and have to be set manually in each node that uses them:
+* Hslider/Vslider → Grabber Hilite
+* Tree → Bg Focus
+
+The image files for these elements can be found in the Iso_Dark/pngs/ folder in the zip archive.
+
 ### How to Install
 * Download the zip using the button on the right side of the main page.
 * Extract the file ```Iso_Dark/iso_dark.thm``` to your game's resource folder.
