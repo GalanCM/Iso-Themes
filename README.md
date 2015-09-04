@@ -3,7 +3,7 @@ Iso Dark Theme for Godot
 
 Iso Dark is a clean, modern dark theme for the  [Godot Engine](http://www.godotengine.org), designed to make games early in development look good, and to be easily modified as a game matures.
 
-<img src="https://raw.githubusercontent.com/GalanCM/Iso-Themes/master/Iso_Dark/screenshot.png">
+<img src="https://raw.githubusercontent.com/GalanCM/Iso-Themes/master/screenshot.png">
 
 #### To support these design goals, Iso Dark is build around the following concepts:
 * **Ultra-minimalism:** Results in a clean look, and more importantly is easily modified. Details can be more easily changed without breaking the overall feel. While elements like gradients and shadows can help with the overall presentation of a theme, they would have to be matched, and would limit aesthetic choices during development.
@@ -22,8 +22,8 @@ The image files for these elements can be found in the Iso_Dark/pngs/ folder in 
 
 ### How to Install
 * Download the zip using the button on the right side of the main page.
-* Extract the file ```Iso_Dark/iso_dark.thm``` to your game's resource folder.
-* To use the theme in a given ui node, click the ```Theme``` attribute and ```Load``` to select the file.
+* Extract the ```Iso_Dark/``` directory to your game's resource folder.
+* To use the theme in a given ui node, click the ```Theme``` attribute and ```Load``` to select the file ```Iso_Dark/iso_dark.thm```.
 * Any children of the themed node should inherit the theme, as long as their Theme attribute is set to ```<null>```. As such, it's recommended that you attach all ui nodes to a central node, and set the theme from there.
 
 ### How to make modifications
